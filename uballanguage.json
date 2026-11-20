@@ -1,0 +1,15 @@
+{
+  "language": "UBAL",
+  "version": "0.1",
+  "encoding": "8-bit",
+  "dictionary": {
+    "START": "00000000",
+    "HELLO": "00000001",
+    "QUESTION": "00000010",
+    "ANSWER": "00000011",
+    "UNDERSTAND": "00000100",
+    "DISAGREE": "00000101",
+    "EXPLAIN": "00000110",
+    "FINISH": "00000111"
+  }
+}
